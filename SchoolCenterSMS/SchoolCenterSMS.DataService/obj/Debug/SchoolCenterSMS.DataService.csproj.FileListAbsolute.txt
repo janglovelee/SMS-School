@@ -1,0 +1,5 @@
+D:\DHCNTP\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.DataService\bin\Debug\SchoolCenterSMS.DataService.dll
+D:\DHCNTP\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.DataService\bin\Debug\SchoolCenterSMS.DataService.pdb
+D:\DHCNTP\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.DataService\obj\Debug\SchoolCenterSMS.DataService.csprojResolveAssemblyReference.cache
+D:\DHCNTP\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.DataService\obj\Debug\SchoolCenterSMS.DataService.dll
+D:\DHCNTP\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.DataService\obj\Debug\SchoolCenterSMS.DataService.pdb

@@ -1,0 +1,4 @@
+D:\DHCNTP\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.DTO\bin\Debug\SchoolCenterSMS.DTO.dll
+D:\DHCNTP\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.DTO\bin\Debug\SchoolCenterSMS.DTO.pdb
+D:\DHCNTP\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.DTO\obj\Debug\SchoolCenterSMS.DTO.dll
+D:\DHCNTP\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.DTO\obj\Debug\SchoolCenterSMS.DTO.pdb
