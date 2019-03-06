@@ -42,3 +42,25 @@ E:\Educations\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\Schoo
 E:\Educations\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.csproj.GenerateResource.Cache
 E:\Educations\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.dll
 E:\Educations\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.pdb
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\bin\Debug\SchoolCenterSMS.View.dll
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\bin\Debug\SchoolCenterSMS.View.pdb
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.csprojResolveAssemblyReference.cache
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Forms.MainForm.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Properties.Resources.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Views.CongCu.AutoReplyView.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Views.CongCu.BlackListView.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Views.Home.CauHinhView.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Views.Home.DanhBaView.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Views.Home.LichGuiTinView.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Views.Home.ThietBiView.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Views.HoTro.BanQuyenView.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Views.HoTro.GioiThieuView.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Views.HoTro.ThietBiHoTroView.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Views.TinNhan.ErrorView.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Views.TinNhan.InboxView.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Views.TinNhan.OutboxView.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Views.TinNhan.SentView.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.Views.Welcome.Welcome.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.csproj.GenerateResource.Cache
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.dll
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.View\obj\Debug\SchoolCenterSMS.View.pdb

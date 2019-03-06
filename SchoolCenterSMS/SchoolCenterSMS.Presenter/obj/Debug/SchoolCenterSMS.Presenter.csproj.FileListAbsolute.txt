@@ -18,3 +18,13 @@ E:\Educations\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.Presenter\bin\Debug\
 E:\Educations\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.Presenter\obj\Debug\SchoolCenterSMS.Presenter.csprojResolveAssemblyReference.cache
 E:\Educations\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.Presenter\obj\Debug\SchoolCenterSMS.Presenter.Properties.Resources.resources
 E:\Educations\DoAnTotNghiep\SchoolCenterSMS\SchoolCenterSMS.Presenter\obj\Debug\SchoolCenterSMS.Presenter.csproj.GenerateResource.Cache
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.Presenter\bin\Debug\SchoolCenterSMS.Presenter.exe.config
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.Presenter\obj\Debug\SchoolCenterSMS.Presenter.exe
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.Presenter\obj\Debug\SchoolCenterSMS.Presenter.pdb
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.Presenter\bin\Debug\SchoolCenterSMS.Presenter.exe
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.Presenter\bin\Debug\SchoolCenterSMS.Presenter.pdb
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.Presenter\bin\Debug\SchoolCenterSMS.View.dll
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.Presenter\bin\Debug\SchoolCenterSMS.View.pdb
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.Presenter\obj\Debug\SchoolCenterSMS.Presenter.csprojResolveAssemblyReference.cache
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.Presenter\obj\Debug\SchoolCenterSMS.Presenter.Properties.Resources.resources
+D:\TLC Products\Softwares\SMS-School\SchoolCenterSMS\SchoolCenterSMS.Presenter\obj\Debug\SchoolCenterSMS.Presenter.csproj.GenerateResource.Cache
